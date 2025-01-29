@@ -69,4 +69,5 @@ Feel free to fork this repository and submit pull requests with improvements.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out to **Monica Muniraj** at [monicamuniraj12@gmail.com](mailto:monicamuniraj12@gmail.com).
+For any questions or collaborations, feel free to connect via :
+Email - [monicamuniraj12@gmail.com](mailto:monicamuniraj12@gmail.com).
