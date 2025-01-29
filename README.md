@@ -70,4 +70,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or collaborations, feel free to connect via :
-Email - [monicamuniraj12@gmail.com](mailto:monicamuniraj12@gmail.com).
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
